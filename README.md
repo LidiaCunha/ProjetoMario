@@ -6,7 +6,7 @@ Desenvolvimento do projeto Mario que consiste em manipular um JSON de audios wav
 
 O desafio proposto faz parte da atividade de adaptação com audios.wav oferecida para matéria de Programação Front-end, SENAI - Jandira.
 
-### Recursos
+### Recursos ![settings](https://user-images.githubusercontent.com/60737355/84045137-d273cf80-a97e-11ea-863b-77d54bb9cf73.png)
 - HTML5
 - CSS3
 - JavaScript
