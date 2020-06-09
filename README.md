@@ -15,7 +15,7 @@ O desafio proposto faz parte da atividade de adaptação com audios.wav oferecid
 ### Conhecimentos adquiridos ![study (1)](https://user-images.githubusercontent.com/60737355/84208822-f7edff80-aa8a-11ea-889f-35a702200a45.png)
 - Manipular áudios com HTML e JavaScript
 - Método _play()_
-- Evento _keydown__
+- Evento _keydown_
 - Evento _animationend_
 
 ### Passo a passo código
