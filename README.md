@@ -12,6 +12,12 @@ O desafio proposto faz parte da atividade de adaptação com audios.wav oferecid
 - JavaScript
 - Áudios.wav
 
+### Conhecimentos adquiridos ![study (1)](https://user-images.githubusercontent.com/60737355/84208822-f7edff80-aa8a-11ea-889f-35a702200a45.png)
+- Manipular áudios com HTML e JavaScript
+- Método _play()_
+- Evento _keydown__
+- Evento _animationend_
+
 ### Passo a passo código
 1. Para iniciar foi feito um objeto JSON que contém três elementos: **letra, sounds e imagem**. Eles farão a composição do exercício, tornando cada bloco de letra clicado em um som, seguido de uma aparição de personagem (imagem) específico para cada áudio.
 
@@ -20,4 +26,5 @@ O desafio proposto faz parte da atividade de adaptação com audios.wav oferecid
 
 2. Posteriormente, em outro arquivo uma função é destinada a criação dos blocos de interação com os elementos do JSON, juntamente os inserindo no HTML da página.
 
-3.
+3. Após, utlizamos uma função para tocar o áudio a partir da letra indicada, revelando o som e a imagem por trás de cada bloco. Ou seja, se a letra marcada for igual a letra do JSON, conclua a exibição.
+
